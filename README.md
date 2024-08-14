@@ -4,7 +4,7 @@
 A soon to be _Applied Mathematics & Computer Science_ professional and a *Game Developer* wanna be. Tierd of doing things to impress and instead I want build things around what I'm intrested.
 
 ![Hello There Obiwan]([https://gifdb.com/images/high/obi-wan-kenobi-well-hello-there-hzgui7yr5ketac2c.gif](https://www.giantfreakinrobot.com/wp-content/uploads/2022/06/hellotherethumb-385x200.jpg))
-
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
 
 ---
 ### Languages I use so far
