@@ -1,5 +1,5 @@
 ## 📺 Hello There 🛹 
-**'Develper'**
+**`Develper`**
 
 A soon to be _Applied Mathematics & Computer Science_ professional and a *Game Developer* wanna be. Tierd of doing things to impress and instead I want build things around what I'm intrested. 
 
