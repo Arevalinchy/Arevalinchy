@@ -5,6 +5,8 @@ A soon to be _Applied Mathematics & Computer Science_ professional and a *Game D
 
 <!-- ![hello_there](https://github.com/user-attachments/assets/92f5a57b-f078-43fb-ac9d-4f510cf10919) -->
 <img src="https://github.com/user-attachments/assets/92f5a57b-f078-43fb-ac9d-4f510cf10919" alt="hello_there" width="200"/>
+
+
 ---
 ### Languages I use so far
 
